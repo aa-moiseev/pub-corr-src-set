@@ -4,7 +4,7 @@
 # For detailed description of the method see:
 #
 #   A. Moiseev, "Simulating brain signals with predefined mutual correlations"
-#   doi:
+#   PDF: https://www.biorxiv.org/content/10.1101/2021.06.01.446620v1.full.pdf
 #
 # A.Moiseev, Behavioral and Cognitive Neuroscience Institute,
 # Simon Fraser University, Canada
