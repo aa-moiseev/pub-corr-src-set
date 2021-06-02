@@ -3,7 +3,7 @@
 #
 # For detailed description of the method see:
 #
-#   A. Moiseev, "Simulating brain signals with predened mutual correlations"
+#   A. Moiseev, "Simulating brain signals with predefined mutual correlations"
 #   doi:
 #
 # A.Moiseev, Behavioral and Cognitive Neuroscience Institute,
